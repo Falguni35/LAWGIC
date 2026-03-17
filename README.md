@@ -1,4 +1,4 @@
-# BNS Legal RAG Assistant — v2
+# BNS Legal RAG Assistant
 
 A Retrieval-Augmented Generation pipeline for querying the
 **Bharatiya Nyaya Sanhita (BNS)**, India's criminal code.
